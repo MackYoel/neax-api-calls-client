@@ -1,4 +1,4 @@
-# nuxt_api_calls_curse
+# Api calls from nuxt client
 
 ## Build Setup
 
